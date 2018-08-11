@@ -117,7 +117,7 @@ textarea {
     top: 35px;
     left: 170px;
     margin-left: 5px;
-    grid-template-columns: 20px 20px 20px;
+    grid-template-columns: 18px 18px 18px;
     transform: skewY(-41deg);
   }
 
@@ -136,6 +136,7 @@ textarea {
 
     50% {
       background: aqua;
+      border-radius: 50%;
     }
 
     100% {
@@ -150,6 +151,7 @@ textarea {
 
     50% {
       background: green;
+      border-radius: 50%;
     }
 
     100% {
